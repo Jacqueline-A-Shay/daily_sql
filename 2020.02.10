@@ -1,0 +1,3 @@
+/*  SQL  */
+
+SELECT project, address FROM repositories;
